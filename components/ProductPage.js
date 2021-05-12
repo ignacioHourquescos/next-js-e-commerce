@@ -61,7 +61,7 @@ function ProductPage(props) {
           </div>
           <div className="flex items-center mt-6">
             <button className="px-8 py-2 bg-indigo-600 text-white text-sm font-medium rounded hover:bg-indigo-500 focus:outline-none focus:bg-indigo-500">
-              Order Now
+              Order Nowwwww
             </button>
             <button className="mx-2 text-gray-600 border rounded-md p-2 hover:bg-gray-200 focus:outline-none">
               <svg
